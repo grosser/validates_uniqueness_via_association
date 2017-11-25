@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    validates_uniqueness_via_association (0.0.0)
+    validates_uniqueness_via_association (0.1.0)
       activerecord (>= 5.1.0, < 6.0.0)
 
 GEM
@@ -44,3 +44,6 @@ DEPENDENCIES
   single_cov
   sqlite3
   validates_uniqueness_via_association!
+
+BUNDLED WITH
+   1.16.0
