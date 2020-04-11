@@ -46,4 +46,4 @@ DEPENDENCIES
   validates_uniqueness_via_association!
 
 BUNDLED WITH
-   1.17.2
+   2.1.4
