@@ -1,5 +1,5 @@
 ActiveRecord: Validate uniqueness of multiple newly associated records, 
-helpful for mass-assingment with `accepts_nested_attributes_for`.
+helpful for mass-assignment with `accepts_nested_attributes_for`.
 
 # Problem
 
@@ -40,4 +40,4 @@ Author
 [Michael Grosser](http://grosser.it)<br/>
 michael@grosser.it<br/>
 License: MIT<br/>
-[![Build Status](https://travis-ci.org/grosser/validates_uniqueness_via_association.png)](https://travis-ci.org/grosser/validates_uniqueness_via_association)
+[![Build status](https://github.com/grosser/validates_uniqueness_via_association/workflows/badge.svg)](https://github.com/grosser/validates_uniqueness_via_association/actions)
