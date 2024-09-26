@@ -10,5 +10,5 @@ Gem::Specification.new name, ValidatesUniquenessViaAssociation::VERSION do |s|
   s.files = `git ls-files lib/ bin/ MIT-LICENSE`.split("\n")
   s.license = "MIT"
   s.required_ruby_version = ">= 3.1.0"
-  s.add_runtime_dependency "activerecord", ">= 7.0.0", "< 7.2.0"
+  s.add_runtime_dependency "activerecord", ">= 7.0.0", "< 7.3.0"
 end
